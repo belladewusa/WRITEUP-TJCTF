@@ -10,10 +10,12 @@ a becomes q, b becomes w, c becomes e, f becomes y, j becomes p, t becomes z, an
 ____________________________________
 
 **Solusi** 
+
 hintnya lainnya adalah type writter, letak huruf jaman dulu dan sekarang dihitung perbandingan letak perubahannya
 sehingga didapatkan flagnya
 
 ____________________________________
 
 **flag**
+
 tjctf{red_orange_purple_engrroiefe_pinearbit_auhsdeuhfn}
