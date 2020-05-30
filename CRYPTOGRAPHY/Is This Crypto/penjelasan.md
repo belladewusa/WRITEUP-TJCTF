@@ -10,9 +10,11 @@ Is this crypto?
 ____________________________________
 
 **Solusi** 
+
 Huruf yang dipakai yaitu huruf latin "unik". pakai online decoder. Dengan metode Alphabetical substitution, inputkan plaintext alphabet dan chiper aplhabet dengan huruf unik.
 
 ____________________________________
 
 **flag**
+
 tjctf{n0_th15_is_kyl3}
