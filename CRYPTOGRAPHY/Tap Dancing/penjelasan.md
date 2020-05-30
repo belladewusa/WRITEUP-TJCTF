@@ -10,9 +10,11 @@ NOTE: Flag is not in flag format.
 ____________________________________
 
 **Solusi** 
+
 kode tersebut adalah morse code. oleh karena itu untuk bisa membacanya kita dapat menggunakan morse code online translator.
 
 ____________________________________
 
 **flag**
+
 tjctf{M0RSEN0TB4SE3}
