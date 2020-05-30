@@ -7,6 +7,7 @@ I wrapped tjctf{} around the lowercase version of a word said in the 1997 film "
 ____________________________________
 
 **Solusi** 
+
 download english subtitle film Titanic 1997
 semua huruf diubah menjadi lowercase dengan bantuan code editor
 setiap kata ditambahkan format tjctf{ dan dibelakangnya }
@@ -15,4 +16,5 @@ cek enkripsinya dengan cara bruteforce menggunakan md5 hingga mendapatkan hash M
 ____________________________________
 
 **flag**
+
 tjctf{ismay's}
