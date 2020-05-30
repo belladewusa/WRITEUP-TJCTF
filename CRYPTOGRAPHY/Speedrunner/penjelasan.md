@@ -9,6 +9,7 @@ __Hint__: ```SHI ZAAAAA (cipher)```
 ____________________________________
 
 **Solusi** 
+
 didalam file tersebut , ada kode yang dienkripsi.
 untuk dapat membacanya, kita bisa gunakan online dekriptor.
 gunakan metode caesar chiper, dimana shift-17 .
@@ -20,4 +21,5 @@ TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}
 ____________________________________
 
 **flag**
+
 TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}
