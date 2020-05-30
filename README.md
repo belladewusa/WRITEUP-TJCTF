@@ -5,4 +5,4 @@
 
 Skor : 530
 
-write up sedang dalam proses pembuatan ...
+
